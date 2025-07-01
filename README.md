@@ -2,7 +2,7 @@
 
 ---
 
-C++ code for the 3 chalenges in my Arduino-based car. Each file hosts a different chalenge. 
+C++ code for the 3 chalenges in my team's Arduino-based car. Each file hosts a different chalenge. 
 
 ## Chalenges:
 
